@@ -14,6 +14,8 @@ const nextConfig = {
       "resources.tidal.com",
       "encrypted-tbn1.gstatic.com"
     ],
+    loader: "akamai",
+    path: "/",
   },
 }
 
